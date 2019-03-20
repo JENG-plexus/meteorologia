@@ -1,4 +1,4 @@
-package es.curso.java.weather.Meteorologia;
+package es.curso.java.weather;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
