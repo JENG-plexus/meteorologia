@@ -5,8 +5,8 @@ public class Geoname {
 	private Bbox bbox;
 	private String asciiName;
 	
-	
-	
+
+	public Geoname () {}
 	
 	public Geoname(Bbox bbox, String asciiName) {
 		super();

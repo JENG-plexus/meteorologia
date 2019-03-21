@@ -7,6 +7,7 @@ public class ResultadoCiudades {
 	private int totalResultsCount;
 	private ArrayList<Geoname> geonames;
 	
+	public ResultadoCiudades () {}
 	public ResultadoCiudades(int totalResultsCount, ArrayList<Geoname> geonames) {
 		super();
 		this.totalResultsCount = totalResultsCount;

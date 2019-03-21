@@ -10,7 +10,7 @@ public class Bbox {
 	
 	
 	
-	
+	public Bbox () {}
 	public Bbox(double east, double north, double west, double south) {
 		super();
 		this.east = east;
